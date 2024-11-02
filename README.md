@@ -11,6 +11,14 @@ You work for an NGO which is exploring global population dynamics. You have been
 Creating a single-screen interactive dashboard which is suitable for the audience and purpose outlined fot our scenario.
 
 
+## Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/47d88eaa-348c-486f-9ddc-ab3df924e71d)
+
+
+
+
+
 ## Objective
 The primary objective of this analysis was to create an interactive and visually compelling dashboard that enables policymakers and the public to better understand global population dynamics over the period 1960 to 2050. Specifically, the dashboard aimed to provide insights into key demographic indicators such as population growth, life expectancy, birth and death rates, and to illustrate how these metrics vary across different regions and income groups. The dashboard sought to make these insights accessible and actionable, helping users explore long-term trends, identify areas of rapid population change, and observe disparities between countries and regions.
 
@@ -34,4 +42,4 @@ The primary objective of this analysis was to create an interactive and visually
 
 
 ## Analysis Tool
-The data will be transformed, cleaned, organized, and analyzed using Power BI
+The data will be transformed, cleaned, organized, and analyzed using Power BI.
