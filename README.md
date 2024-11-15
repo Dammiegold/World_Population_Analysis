@@ -43,3 +43,6 @@ The primary objective of this analysis was to create an interactive and visually
 
 ## Analysis Tool
 The data will be transformed, cleaned, organized, and analyzed using Power BI.
+
+#### NOTE
+Check out the [Global Population Full Report document] attached for the full report Write-up.
